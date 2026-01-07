@@ -27,7 +27,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/TrilokSinghRana/Passwordgenerator
 cd repo
 Install dependencies:
 
